@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igor Breyer Mori.
 - 👀 I’m interested in Tecnology, Music, Games.
-- 🌱 I’m currently studying Software Development in Cubos Academy.
-- 🎓 I’m learning Javascript | Node.JS.
+- 🌱 I’m currently studying Python at Udemy.
+- 🎓 I’m learning Python.
 - 🎓 I’ve already taken a Figma course.
 - 🎓 My next step in software development is learning C#.
 - 📫 How to reach me LinkdIn: https://www.linkedin.com/in/igor-breyer-5a5a4193/
